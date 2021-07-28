@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chanchal [@ChanX21] I typically focus on Blockchain Developments and updates.. and occationally something else 🤷‍♂️
+- 👋 Hi, I’m Chanchal [@ChanX21] I typically focus on Blockchain Developments and updates.. and occasionally something else 🤷‍♂️
 
 
 
