@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Chanchal [@ChanX21] I typically focus on Blockchain Developments and updates.. and occasionally something else 🤷‍♂️
+- ‼️ This is my personal Github and not my professional 🔒
 
 
 
