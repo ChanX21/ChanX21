@@ -11,7 +11,7 @@
 
 <h3 align="left">Expertise:</h3>
 <ul style="list-style-type: none; padding-left: 0;">
-    <li>🔗 Blockchain Development: Proficient in developing decentralized applications (DApps), smart contracts, and custom Blockchain solutions.</li>
+    <li>🔗 Blockchain Development: Proficient in developing Blockchain Backend Services ( API ), decentralized applications (DApps), smart contracts, and custom Blockchain solutions.</li>
     <br>
     <li>🏗️ System Design: Experienced in designing complex Blockchain systems, architecting solutions that meet both technical and business requirements.</li>
     <br>
