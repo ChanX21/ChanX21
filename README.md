@@ -7,6 +7,17 @@
 
 - 👋 Hi, I’m Chanchal [@ChanX21] I typically focus on Blockchain Developments and updates.. and occasionally something else 🤷‍♂️
 - ‼️ This is my personal Github and not my professional 🔒 and will only contain my side and other miscellaneous projects ⛷️
+- 🚀 As a seasoned Blockchain developer, I possess a profound understanding of Blockchain technology and its diverse applications. With years of hands-on experience, I've refined my craft as a gifted Blockchain System Designer and Architect, specializing in crafting robust and scalable decentralized systems. 🔧💼
+
+<h3 align="left">Expertise:</h3>
+<ul style="list-style-type: none; padding-left: 0;">
+    <li>🔗 Blockchain Development: Proficient in developing decentralized applications (DApps), smart contracts, and custom Blockchain solutions.</li>
+    <br>
+    <li>🏗️ System Design: Experienced in designing complex Blockchain systems, architecting solutions that meet both technical and business requirements.</li>
+    <br>
+    <li>💡 Innovative Solutions: Passionate about exploring new ideas and implementing innovative solutions in the Blockchain space.</li>
+</ul>
+
 
 
 
