@@ -18,8 +18,8 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/chanchaldelson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/chanchaldelson" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chanchaldelson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chanchaldelson/" height="30" width="40" /></a>
+<a href="https://twitter.com/chanchaldelson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/chanchaldelson" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chanchaldelson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chanchaldelson/" height="30" width="40" /></a>
 </p>
 
 
