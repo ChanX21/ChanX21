@@ -15,7 +15,7 @@
     <br>
     <li>🏗️ System Design: Experienced in designing complex Blockchain systems, architecting solutions that meet both technical and business requirements.</li>
     <br>
-    <li>💡 Innovative Solutions: Passionate about exploring new ideas and implementing innovative solutions in the Blockchain space.</li>
+    <li>💡 Innovative Solutions: Drive the innovation in the Blockchain space and let's go forward step by step</li>
 </ul>
 
 
