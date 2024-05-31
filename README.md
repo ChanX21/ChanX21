@@ -1,14 +1,14 @@
                                                                                                                         
- <h3 align="left">About</h3>
+ <h2 align="left">About</h2>
                                                                                                                         
 
 - 👋 Hi, I’m Chanchal [@ChanX21] I typically focus on Blockchain Developments and updates.. and occasionally something else 🤷‍♂️
 - <h4>‼️ This is my personal Github and not my professional 🔒 and will only contain my side and other miscellaneous projects ⛷️</h4>
 - 🚀 As a seasoned Blockchain developer, I possess a profound understanding of Blockchain technology and its diverse applications. With years of hands-on experience, I've refined my craft as a gifted Blockchain System Designer and Architect, specializing in crafting robust and scalable decentralized systems. 🔧💼
 
-<h3 align="left">Expertise:</h3>
+<h2 align="left">Expertise:</h2>
 <ul style="list-style-type: none; padding-left: 0;">
-    <li>🔗 Blockchain Development: Proficient in developing Blockchain Backend Services ( API ), decentralized applications (DApps), smart contracts, and custom Blockchain solutions.</li>
+    <li>🔗 Blockchain Engineering: Proficient in developing Blockchain Backend Services ( API ), decentralized applications (DApps), smart contracts, and custom Blockchain solutions.</li>
     <br>
     <li>🏗️ System Design: Experienced in designing complex Blockchain systems, architecting solutions that meet both technical and business requirements.</li>
     <br>
@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h1> Blockchain Stack </h1>
+<h1> Blockchain Engineering </h1>
 
 <div align="center">
 	<img width="50" src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=029" alt="Ethereum" title="Ethereum"/>
