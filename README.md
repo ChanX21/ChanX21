@@ -1,7 +1,4 @@
-
- ![image](https://github.com/ChanX21/ChanX21/assets/47290661/6ac2901a-616e-4db4-8c50-5007e05179ce)
-
-                                                                                                                         
+                                                                                                                        
  <h3 align="left">About</h3>
                                                                                                                         
 
