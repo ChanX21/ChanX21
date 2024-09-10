@@ -16,7 +16,7 @@ Greetings! I'm Chanchal [@ChanX21], a System Design Expert and Blockchain Archit
 
 ## 💼 Professional Highlights
 
--  Led system design for 4+ high-profile projects.
+-  Led system design and project management for 4+ high-profile projects.
 -  Architected blockchain solutions that are processing thousands of users.
 -  Developed cutting-edge DApps and smart contracts deployed across multiple chains.
 -  Optimized backend systems, achieving low uptime and sub-second response times.
