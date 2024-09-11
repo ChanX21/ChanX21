@@ -3,6 +3,10 @@
 ## 🚀 About Me
 
 Greetings! I'm Chanchal [@ChanX21], a System Design Expert and Blockchain Architect with a proven track record of delivering robust, scalable solutions for over 4+ high-profile projects. My expertise lies in crafting elegant architectures that seamlessly integrate cutting-edge technologies to solve complex business challenges. I have worked in over 10+ Web3 projects spanning from Multi-Chain crypto wallet to Algorand based DEXs to smart contract based token streamers etc 
+<h3 align="center">
+   "Simplicity and Clarity with a philosophy to Decentralize in requirements is the ultimate sophistication in Web3 System Design"
+</h3>
+
 
 > **Note:** 🔒 This is my personal GitHub profile and may not reflect the full extent of my professional work. For a comprehensive overview of my projects and contributions, please reach out directly or connect via the links below.
 
@@ -68,5 +72,3 @@ I'm always excited to collaborate on challenging projects or discuss innovative 
 <p><a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Chanx21&style=for-the-badge">
 </a></p>
-
-💡 *"Simplicity and Clarity in requirements is the ultimate sophistication in system design."*
