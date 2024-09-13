@@ -1,4 +1,4 @@
-# 🌌 Chanchal Delson | Master System Designer & Blockchain Architect
+# Chanchal Delson | Master System Designer & Blockchain Architect
 
 ## 🚀 About Me
 
