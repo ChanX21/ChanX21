@@ -57,7 +57,12 @@ Greetings! I'm Chanchal [@ChanX21], a System Design Expert and Blockchain Archit
 
 1. 🔹 **Architected a Unity based Web3 Game Aggregator Project**
    - Lead and architected a Hyper Casual Unity Gaming platform  
-
+2. 🔹 **Involved in project Memora**
+   - A place where assurance becomes automated
+   - Architected and Implemented the Backend Including Smart Contracts and the AI Backend systems
+   - Winner Projet at Eth Singapore 2024
+   - https://github.com/Memora-eth
+3. 🔹 **Involved in Building Kresus**
 
 ## 📫 Let's Connect
 
