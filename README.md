@@ -63,6 +63,9 @@ Greetings! I'm Chanchal [@ChanX21], a System Design Expert and Blockchain Archit
    - Winner Projet at Eth Singapore 2024
    - https://github.com/Memora-eth
 3. 🔹 **Involved in Building Kresus**
+   - Built an MPC Vault based wallet in Base
+   - https://kresus.com/
+   - Worked on the Backend side of the app
 
 ## 📫 Let's Connect
 
