@@ -73,7 +73,7 @@ I'm always excited to collaborate on challenging projects or discuss innovative 
 
 <p align="left">
 
-[![Twitter](https://img.shields.io/badge/-Twitter-0A192F?style=for-the-badge&logo=twitter&logoColor=64FFDA)](https://twitter.com/chanchaldelson)
+[![X](https://img.shields.io/badge/-Twitter-0A192F?style=for-the-badge&logo=x&logoColor=64FFDA)](https://twitter.com/chanchaldelson)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=64FFDA)](https://www.linkedin.com/in/chanchaldelson/)
 
 </p>
