@@ -60,7 +60,7 @@ Greetings! I'm Chanchal [@ChanX21], a System Design Expert and Blockchain Archit
 2. 🔹 **Involved in project Memora**
    - A place where assurance becomes automated
    - Architected and Implemented the Backend Including Smart Contracts and the AI Backend systems
-   - Winner Projet at Eth Singapore 2024
+   - Winner Project at Eth Singapore 2024
    - https://github.com/Memora-eth
 3. 🔹 **Involved in Building Kresus**
    - Built an MPC Vault based wallet in Base
