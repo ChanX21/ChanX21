@@ -4,7 +4,7 @@
 
 Greetings! I'm Chanchal [@ChanX21], a System Design Expert and Blockchain Architect with a proven track record of delivering robust, scalable solutions for over 4+ high-profile projects. My expertise lies in crafting elegant architectures that seamlessly integrate cutting-edge technologies to solve complex business challenges. I have worked in over 10+ Web3 projects spanning from Multi-Chain crypto wallet to Algorand based DEXs to smart contract based token streamers etc 
 <h3 align="center">
-   "Simplicity and Clarity with a philosophy to Decentralize in requirements is the ultimate sophistication in Web3 System Design"
+   "Simplicity and Clarity in requirements along with a philosophy to Decentralize is the ultimate sophistication in Blockchain System Design"
 </h3>
 
 
