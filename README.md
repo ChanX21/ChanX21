@@ -1,5 +1,3 @@
-Here's a more technically mature and professional version of the profile, while maintaining an upbeat tone:
-
 # Chanchal Delson | System Designer & Blockchain Architect
 
 ## About Me
