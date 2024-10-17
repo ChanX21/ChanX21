@@ -1,31 +1,33 @@
+Here's a more technically mature and professional version of the profile, while maintaining an upbeat tone:
+
 # Chanchal Delson | System Designer & Blockchain Architect
 
-## 🚀 About Me
+## About Me
 
-Greetings! I'm Chanchal [@ChanX21], a System Design Expert and Blockchain Architect with a proven track record of delivering robust, scalable solutions for over 4+ high-profile projects. My expertise lies in crafting elegant architectures that seamlessly integrate cutting-edge technologies to solve complex business challenges. I have worked in over 10+ Web3 projects spanning from Multi-Chain crypto wallet to Algorand based DEXs to smart contract based token streamers etc 
+I'm Chanchal (@ChanX21), a System Design Expert and Blockchain Architect with a proven track record of delivering robust, scalable solutions for over 4 high-profile projects. My expertise lies in crafting elegant architectures that seamlessly integrate cutting-edge technologies to solve complex business challenges. I have contributed to over 10 Web3 projects, ranging from multi-chain cryptocurrency wallets to Algorand-based decentralized exchanges (DEXs) and smart contract-based token streaming platforms.
+
 <h3 align="center">
-   "Simplicity and Clarity in requirements along with a philosophy to Decentralize is the ultimate sophistication in Blockchain System Design"
+   "Simplicity and clarity in requirements, coupled with a philosophy of decentralization, is the ultimate sophistication in Blockchain System Design"
 </h3>
 
+Note: This is my personal GitHub profile and may not reflect the full extent of my professional work. For a comprehensive overview of my projects and contributions, please reach out directly or connect via the links below.
 
-> **Note:** 🔒 This is my personal GitHub profile and may not reflect the full extent of my professional work. For a comprehensive overview of my projects and contributions, please reach out directly or connect via the links below.
+## Core Competencies
 
-## 🏗️ Core Competencies
+- **System Design & Architecture:** Mastering the art of designing and implementing large-scale, distributed systems that handle millions of transactions with high availability and low latency.
+- **Blockchain Engineering:** Profound understanding of blockchain technology, specializing in developing secure and efficient decentralized systems.
+- **Backend Development:** Expert in NodeJS, creating high-performance, scalable backend services and APIs.
+- **Smart Contract Development:** Proficient in Solidity, designing and implementing complex smart contracts for various blockchain platforms.
+- **Advanced Rust Programming:** Leveraging Rust's performance and safety features for system-critical components and blockchain development.
 
-- 🔷 **System Design & Architecture:** Mastering the art of designing and implementing large-scale, distributed systems that handle millions of transactions with high availability and low latency.
-- 🔷 **Blockchain Engineering:** Profound understanding of blockchain technology, specializing in developing secure and efficient decentralized systems.
-- 🔷 **Backend Development:** Expert in NodeJS, creating high-performance, scalable backend services and APIs.
-- 🔷 **Smart Contract Development:** Proficient in Solidity, designing and implementing complex smart contracts for various blockchain platforms.
-- 🔷 **Advanced Rust Programming:** Leveraging Rust's performance and safety features for system-critical components and blockchain development.
+## Professional Highlights
 
-## 💼 Professional Highlights
+- Led system design and project management for 4+ high-profile projects.
+- Architected blockchain solutions processing transactions for thousands of users.
+- Developed cutting-edge decentralized applications (DApps) and smart contracts deployed across multiple chains.
+- Optimized backend systems, achieving high uptime and sub-second response times.
 
--  Led system design and project management for 4+ high-profile projects.
--  Architected blockchain solutions that are processing thousands of users.
--  Developed cutting-edge DApps and smart contracts deployed across multiple chains.
--  Optimized backend systems, achieving low uptime and sub-second response times.
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -51,21 +53,47 @@ Greetings! I'm Chanchal [@ChanX21], a System Design Expert and Blockchain Archit
 ![OpenAI](https://img.shields.io/badge/-OpenAI-0A192F?style=for-the-badge&logo=openai&logoColor=64FFDA)
 ![Git](https://img.shields.io/badge/-Git-0A192F?style=for-the-badge&logo=git&logoColor=64FFDA)
 
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=chanx21&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chanx21&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chanx21&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+  </td>
+</tr>
+</table>
+</p>
+
+<br clear="both">
+
+<div align="left">
+
+## Featured Projects
+
+1. **Project Memora - Automated Assurance Platform**
+   - Architected and implemented the backend infrastructure, including smart contracts and AI systems
+   - Developed innovative blockchain-based assurance protocols
+   - Integrated machine learning algorithms for predictive analysis and risk assessment
+   - **Achievement:** Winner, ETH Singapore 2024
+   - **GitHub:** [Memora-eth](https://github.com/Memora-eth)
+
+2. **Kresus - MPC Vault-based Wallet**
+   - Contributed to the development of a Multi-Party Computation (MPC) vault-based wallet on the Base network
+   - Focused on backend development, implementing secure key management and transaction processing systems
+   - Engineered APIs for seamless integration with frontend and blockchain interfaces
+   - **Project Link:** [Kresus.com](https://kresus.com/)
+
+3. **Unity-based Web3 Game Aggregator**
+   - Led architecture design for a Hyper Casual Unity Gaming platform
+   - Implemented blockchain integration for in-game asset management and transactions
+   - Optimized for scalability to support multiple concurrent games and users
+
 </div>
-
-## 🌟 Featured Projects
-
-1. 🔹 **Architected a Unity based Web3 Game Aggregator Project**
-   - Lead and architected a Hyper Casual Unity Gaming platform  
-2. 🔹 **Involved in project Memora**
-   - A place where assurance becomes automated
-   - Architected and Implemented the Backend Including Smart Contracts and the AI Backend systems
-   - Winner Project at Eth Singapore 2024
-   - https://github.com/Memora-eth
-3. 🔹 **Involved in Building Kresus**
-   - Built an MPC Vault based wallet in Base
-   - https://kresus.com/
-   - Worked on the Backend side of the app
 
 ## 📫 Let's Connect
 
