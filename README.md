@@ -80,13 +80,22 @@ Note: This is my personal GitHub profile and may not reflect the full extent of 
    - **Achievement:** Winner, ETH Singapore 2024
    - **GitHub:** [Memora-eth](https://github.com/Memora-eth)
 
-2. **Kresus - MPC Vault-based Wallet**
+2. **zkRail - Trustless Rails for Real-World Payments**
+   - zkRail is a trustless protocol enabling crypto-to-UPI payments without requiring bank accounts or KYC, winning ETH India 2024
+   - Uses a competitive solver network where agents bid to execute fiat payments, with the lowest bid winning the right to process the transaction
+   - Features an advanced GPT-4 powered AI agent CLI built with Coinbase's CDP AgentKit, enabling natural language payment processing, automated intent management, and seamless transaction 
+     handling, supported by a Cloudflare Workers-based intent aggregator for real-time solution matching
+   - **Achievement:** Winner, ETH India 2024
+   - **Project Link:** [Kresus.com](https://devfolio.co/projects/zkrail-5702)
+
+
+3. **Kresus - MPC Vault-based Wallet**
    - Contributed to the development of a Multi-Party Computation (MPC) vault-based wallet on the Base network
    - Focused on backend development, implementing secure key management and transaction processing systems
    - Engineered APIs for seamless integration with frontend and blockchain interfaces
-   - **Project Link:** [Kresus.com](https://kresus.com/)
+   - **Project Link:** [zkRail](https://kresus.com/)
 
-3. **Unity-based Web3 Game Aggregator**
+4. **Unity-based Web3 Game Aggregator**
    - Led architecture design for a Hyper Casual Unity Gaming platform
    - Implemented blockchain integration for in-game asset management and transactions
    - Optimized for scalability to support multiple concurrent games and users
