@@ -86,14 +86,14 @@ Note: This is my personal GitHub profile and may not reflect the full extent of 
    - Features an advanced GPT-4 powered AI agent CLI built with Coinbase's CDP AgentKit, enabling natural language payment processing, automated intent management, and seamless transaction 
      handling, supported by a Cloudflare Workers-based intent aggregator for real-time solution matching
    - **Achievement:** Winner, ETH India 2024
-   - **Project Link:** [Kresus.com](https://devfolio.co/projects/zkrail-5702)
+   - **Project Link:** [zkRail](https://devfolio.co/projects/zkrail-5702)
 
 
 3. **Kresus - MPC Vault-based Wallet**
    - Contributed to the development of a Multi-Party Computation (MPC) vault-based wallet on the Base network
    - Focused on backend development, implementing secure key management and transaction processing systems
    - Engineered APIs for seamless integration with frontend and blockchain interfaces
-   - **Project Link:** [zkRail](https://kresus.com/)
+   - **Project Link:** [Kresus.com](https://kresus.com/)
 
 4. **Unity-based Web3 Game Aggregator**
    - Led architecture design for a Hyper Casual Unity Gaming platform
