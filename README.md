@@ -1,8 +1,9 @@
-# Chanchal Delson | System Designer & Blockchain Architect
+# Chanchal Delson | Building Elegant Decentralized Systems 
 
 ## About Me
 
-I'm Chanchal (@ChanX21), a System Design Expert and Blockchain Architect with a proven track record of delivering robust, scalable solutions for over 4 high-profile projects. My expertise lies in crafting elegant architectures that seamlessly integrate cutting-edge technologies to solve complex business challenges. I have contributed to over 10 Web3 projects, ranging from multi-chain cryptocurrency wallets to Algorand-based decentralized exchanges (DEXs) and smart contract-based token streaming platforms.
+I'm Chanchal (@ChanX21), and I like to build systems - specifically Web3 systems, decentralized to the maximum extent practically possible. I strive to make systems as elegant as possible, as seamless as possible and integrating them to solve the ever increasingly complex business challenges out there . 16+ projects, 6+ projects Lead from Ai based inheritance solutions to Meme Pumpers to Algorand Based DEXs. Check out my site for more
+
 
 <h3 align="center">
    "Simplicity and clarity in requirements, coupled with a philosophy of decentralization, is the ultimate sophistication in Blockchain System Design"
