@@ -1,5 +1,8 @@
 # Chanchal Delson | Building Elegant Decentralized Systems 
 
+
+![giphy](https://github.com/user-attachments/assets/8b1ac72a-3bdf-4b9e-8c2c-f0ee8a5c9682)
+
 ## About Me
 
 I'm Chanchal (@ChanX21), and I like to build systems - specifically Web3 systems, decentralized to the maximum extent practically possible. I make systems as elegant as possible, as seamless as possible and integrate them to solve the ever increasingly complex business challenges out there . 16+ projects, 6+ projects lead. From Ai based inheritance solutions to Meme Pumpers to Algorand Based DEXs. Check out my site for more
