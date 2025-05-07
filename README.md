@@ -19,7 +19,7 @@ Note: This is my personal GitHub profile and may not reflect the full extent of 
 - **System Design & Architecture:** Mastering the art of designing and implementing large-scale, distributed systems that handle millions of transactions with high availability and low latency.
 - **Blockchain Engineering:** Profound understanding of blockchain technology, specializing in developing secure and efficient decentralized systems.
 - **Backend Development:** Expert in NodeJS, creating high-performance, scalable backend services and APIs.
-- **Smart Contract Development:** Proficient in Solidity, designing and implementing complex smart contracts for various blockchain platforms.
+- **Smart Contract Development:** Proficient in Solidity, Move and Noir designing and implementing complex smart contracts for various blockchain platforms.
 - **Advanced Rust Programming:** Leveraging Rust's performance and safety features for system-critical components and blockchain development.
 
 ## Professional Highlights
