@@ -9,7 +9,7 @@ I'm Chanchal (@ChanX21), and I like to build systems - specifically Web3 systems
 
 
 <h3 align="center">
-   "Simplicity and clarity in requirements, coupled with a philosophy of decentralization, is the ultimate sophistication in Blockchain System Design"
+   "Simplicity and clarity in requirements, coupled with a philosophy of decentralization, is the ultimate sophistication in web3 System Design"
 </h3>
 
 Note: This is my personal GitHub profile and may not reflect the full extent of my professional work. For a comprehensive overview of my projects and contributions, please reach out directly or connect via the links below.
