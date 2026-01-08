@@ -1,4 +1,4 @@
-# Chanchal Delson | Architecting Insane Decentralized Systems 
+# Chanchal Delson | Architecting Insane Engineering Systems 
 
 
 ![giphy](https://github.com/user-attachments/assets/8b1ac72a-3bdf-4b9e-8c2c-f0ee8a5c9682)
