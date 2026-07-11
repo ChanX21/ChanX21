@@ -1,6 +1,6 @@
 # Chanchal Delson | Architecting Insane Engineering Systems
 
-<img width="800" height="450" alt="chanchalgif-ezgif com-resize" src="https://github.com/user-attachments/assets/548d804b-e158-4d6d-92f1-1b5f0bc61075" />
+<img width="800" height="450" alt="chanchalgif-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/2d8823af-0724-4f3c-8917-d125445e1372" />
 
 ## About Me
 
