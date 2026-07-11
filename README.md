@@ -116,13 +116,23 @@ Note: This is my personal GitHub profile and may not reflect the full extent of 
 
 </div>
 
-## Open Source
+## Open Source Contributions
 
-1. **Agent Opfor - AI Red-Teaming Tool**
-   - Raised the first non-collaborator PR to Agent Opfor
-   - Agent Opfor tests prompts, tools, MCP, memory, and multi-turn behavior with auditable reports
-   - Focused on evidence layers, attack suites, and OWASP-mapped evaluation flows
-   - **Repository:** [agent-opfor](https://github.com/KeyValueSoftwareSystems/agent-opfor)
+<div align="center">
+
+### Agent Opfor - AI Red-Teaming Tool
+
+Raised the first external, non-collaborator pull request to Agent Opfor.
+
+Contributed to an AI red-teaming system that evaluates prompts, tools, MCP servers, memory, and multi-turn agent behavior.
+
+Worked on evidence layers, adversarial attack suites, auditable reports, and OWASP-mapped evaluation flows.
+
+**Repository:** [agent-opfor](https://github.com/KeyValueSoftwareSystems/agent-opfor)
+
+</div>
+
+
 
 ## 📫 Let's Connect
 
@@ -130,10 +140,15 @@ I'm always excited to collaborate on challenging projects or discuss innovative 
 
 <p align="left">
 
-[![X](https://img.shields.io/badge/-Twitter-0A192F?style=for-the-badge&logo=x&logoColor=64FFDA)](https://twitter.com/chanchaldelson)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=64FFDA)](https://www.linkedin.com/in/chanchaldelson/)
+[![X](https://img.shields.io/badge/-Twitter-0A192F?style=for-the-badge\&logo=x\&logoColor=64FFDA)](https://twitter.com/chanchaldelson)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A192F?style=for-the-badge\&logo=linkedin\&logoColor=64FFDA)](https://www.linkedin.com/in/chanchaldelson/)
+[![Website](https://img.shields.io/badge/-Website-0A192F?style=for-the-badge\&logo=vercel\&logoColor=64FFDA)](https://chanchaldelson.vercel.app)
 
 </p>
-<p><a href="https://github.com/antonkomarev/github-profile-views-counter">
+
+<p>
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Chanx21&style=for-the-badge">
-</a></p>
+</a>
+</p>
+
