@@ -1,12 +1,12 @@
-# Chanchal Delson | Architecting Insane Engineering Systems 
+# Chanchal Delson | Architecting Insane Engineering Systems
 
-
-![giphy](https://github.com/user-attachments/assets/8b1ac72a-3bdf-4b9e-8c2c-f0ee8a5c9682)
+<img width="800" height="450" alt="chanchalgif-ezgif com-resize" src="https://github.com/user-attachments/assets/548d804b-e158-4d6d-92f1-1b5f0bc61075" />
 
 ## About Me
 
-I'm Chanchal (@ChanX21), and I like to build systems - specifically Web3 systems, decentralized to the maximum extent practically possible. I make systems as elegant as possible, as seamless as possible and integrate them to solve the ever increasingly complex business challenges out there . 16+ projects, 6+ projects lead. From Ai based inheritance solutions to Meme Pumpers to Algorand Based DEXs. Check out my site for more
+I'm Chanchal (@ChanX21), and I like to build systems, specifically Web3 systems, decentralized to the maximum extent practically possible. I work on backend, infrastructure, AI automation, protocol systems, and blockchain products that need to stand the pressure of scale and real-world load.
 
+I have worked across 5 major projects, 10+ hackathon projects, 16+ blockchain systems, and 6+ projects as lead or architect. From AI-based inheritance solutions to meme economies, Algorand-based DEXs, wallet infrastructure, AI red-teaming, and settlement systems, I like building systems that turn complex requirements into usable products.
 
 <h3 align="center">
    "Simplicity and clarity in requirements, coupled with a philosophy of decentralization, is the ultimate sophistication in web3 System Design"
@@ -16,18 +16,21 @@ Note: This is my personal GitHub profile and may not reflect the full extent of 
 
 ## Core Competencies
 
-- **System Design & Architecture:** Mastering the art of designing and implementing large-scale, distributed systems that handle millions of transactions with high availability and low latency.
-- **Blockchain Engineering:** Profound understanding of blockchain technology, specializing in developing secure and efficient decentralized systems.
-- **Backend Development:** Expert in NodeJS, creating high-performance, scalable backend services and APIs.
-- **Smart Contract Development:** Proficient in Solidity, Move and Noir designing and implementing complex smart contracts for various blockchain platforms.
+- **System Design & Architecture:** Designing and implementing large-scale distributed systems that handle real-world load, operational complexity, and high availability requirements.
+- **Blockchain Engineering:** Building secure and efficient decentralized systems across wallets, DeFi, protocols, settlement rails, and onchain automation.
+- **Backend & Infrastructure:** Creating scalable backend services, APIs, indexing systems, observability flows, and production-grade infrastructure.
+- **AI Systems & Red-Teaming:** Working on AI automation, agent observability, MCP workflows, red-teaming, security testing, and auditable evaluation systems.
+- **Smart Contract Development:** Proficient in Solidity, Move, Noir, and PyTeal for complex smart contracts across blockchain platforms.
 - **Advanced Rust Programming:** Leveraging Rust's performance and safety features for system-critical components and blockchain development.
 
 ## Professional Highlights
 
-- Led system design and project management for 4+ high-profile projects.
-- Architected blockchain solutions processing transactions for thousands of users.
-- Developed cutting-edge decentralized applications (DApps) and smart contracts deployed across multiple chains.
-- Optimized backend systems, achieving high uptime and sub-second response times.
+- Worked across 5 major production-grade projects: Netra, Kresus Omni Chain Wallet, Sigillum Protocol, ZK Rail, and Memora.
+- Built and shipped across 10+ hackathon projects, with 3x title wins including ETH Singapore 2024 and ETH India 2024.
+- 6+ track winner for Web3 giants such as QuickNode, PYUSD, Oasis Protocol, Push Protocol, and more.
+- Top-notch OSS contribution to Agent Opfor, an AI red-teaming tool for prompts, tools, MCP, memory, and multi-turn behavior.
+- Did red-teaming, security, observability, and backend systems work for Netra.
+- Contributed to wallet infrastructure with $1M+ TVL and 1000+ users.
 
 ## Tech Stack
 
@@ -62,7 +65,7 @@ Note: This is my personal GitHub profile and may not reflect the full extent of 
 <td width="50%" align="center">
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=chanx21&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chanx21&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chanx21&theme=dark&hide_border=false" />
 </td>
 <td width="50%" align="center">
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chanx21&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
@@ -77,34 +80,49 @@ Note: This is my personal GitHub profile and may not reflect the full extent of 
 
 ## Featured Projects
 
-1. **Project Memora - Automated Assurance Platform**
+1. **Netra - AI Observability, Evaluation, and Agent Security**
+   - Building AI and software observability systems across backend, infrastructure, and product-facing automation
+   - Worked on red-teaming, security, MCP workflows, and agent evaluation systems
+   - **Project Link:** [Netra](https://getnetra.ai/)
+
+2. **Project Memora - Automated Assurance Platform**
    - Architected and implemented the backend infrastructure, including smart contracts and AI systems
    - Developed innovative blockchain-based assurance protocols
-   - Integrated machine learning algorithms for predictive analysis and risk assessment
+   - Integrated AI-assisted workflows for transfer assurance and asset coordination
    - **Achievement:** Winner, ETH Singapore 2024
    - **GitHub:** [Memora-eth](https://github.com/Memora-eth)
 
-2. **zkRail - Trustless Rails for Real-World Payments**
+3. **zkRail - Trustless Rails for Real-World Payments**
    - zkRail is a trustless protocol enabling crypto-to-UPI payments without requiring bank accounts or KYC, winning ETH India 2024
    - Uses a competitive solver network where agents bid to execute fiat payments, with the lowest bid winning the right to process the transaction
-   - Features an advanced GPT-4 powered AI agent CLI built with Coinbase's CDP AgentKit, enabling natural language payment processing, automated intent management, and seamless transaction 
-     handling, supported by a Cloudflare Workers-based intent aggregator for real-time solution matching
+   - Features an advanced GPT-4 powered AI agent CLI built with Coinbase's CDP AgentKit, enabling natural language payment processing, automated intent management, and seamless transaction handling, supported by a Cloudflare Workers-based intent aggregator for real-time solution matching
    - **Achievement:** Winner, ETH India 2024
    - **Project Link:** [zkRail](https://devfolio.co/projects/zkrail-5702)
 
-
-3. **Kresus - MPC Vault-based Wallet**
-   - Contributed to the development of a Multi-Party Computation (MPC) vault-based wallet on the Base network
+4. **Kresus - MPC Vault-based Wallet**
+   - Contributed to the development of an omnichain wallet with NFT Lens, multisig, swaps, and cross-chain product flows
    - Focused on backend development, implementing secure key management and transaction processing systems
-   - Engineered APIs for seamless integration with frontend and blockchain interfaces
+   - Contributed to wallet infrastructure with $1M+ TVL and 1000+ users
    - **Project Link:** [Kresus.com](https://kresus.com/)
 
-4. **Unity-based Web3 Game Aggregator**
+5. **Sigillum Protocol - Authentic Media and Verification**
+   - Built protocol work focused on trust, verification, and reliable onchain coordination
+   - Worked on systems for creator authenticity, secure images, and verifiable media flows
+
+6. **Unity-based Web3 Game Aggregator**
    - Led architecture design for a Hyper Casual Unity Gaming platform
    - Implemented blockchain integration for in-game asset management and transactions
    - Optimized for scalability to support multiple concurrent games and users
 
 </div>
+
+## Open Source
+
+1. **Agent Opfor - AI Red-Teaming Tool**
+   - Raised the first non-collaborator PR to Agent Opfor
+   - Agent Opfor tests prompts, tools, MCP, memory, and multi-turn behavior with auditable reports
+   - Focused on evidence layers, attack suites, and OWASP-mapped evaluation flows
+   - **Repository:** [agent-opfor](https://github.com/KeyValueSoftwareSystems/agent-opfor)
 
 ## 📫 Let's Connect
 
